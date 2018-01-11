@@ -1,4 +1,4 @@
-# JavaScript number to 8 byte hexadecimal string.
+# JavaScript IEEE 754 number to 8 byte hexadecimal string.
 
 This library purpose is to provide an easy way to convert JavaScript numbers into 8 byte hexadecimal strings.
 
